@@ -2,7 +2,7 @@
 -  👋 Hi, I’m @Robinhoespanha91
 - 👀 I’m interested in Programacion 
 - 🌱 I’m currently learning  Backend 
-- 💞️  PYTHON , JS , NODE JS , Javascript.
+-     C# ,.NET, JS , NODE JS , Javascript.
 - 📫   robinhoespanha92@gmail.com
 
 
